@@ -1,10 +1,10 @@
 body{
-   background-color: lightskyblue
+   background-color: lightskyblue;
 
 }
 a{
-  color:black
-  background=white;
+  color:black;
+  background:white;
 }
 ul{
   list-style: none;
