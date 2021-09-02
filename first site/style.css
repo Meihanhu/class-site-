@@ -1,0 +1,38 @@
+html {
+  background: pink;
+}
+  <!--background-image:url("img/dog.jpeg")-->
+
+
+
+#special {
+  color: #fff ;
+  background: black;
+  }
+
+
+
+
+
+.dog{
+  max-width: 20%;
+  display: block;
+  margin:0 auto;
+}
+
+h1{
+  text-align: center;
+}
+
+
+.common{
+  color: white ;
+  font-size: 50px;
+  background: black;
+  border: 5px dotted white;
+  border-radius: 20px;
+  padding:40px;
+  margin:60px;
+
+
+  }
