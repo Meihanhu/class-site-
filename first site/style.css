@@ -1,5 +1,5 @@
 html {
-  background: pink;
+  background: black;
 }
   <!--background-image:url("img/dog.jpeg")-->
 
@@ -11,28 +11,15 @@ html {
   }
 
 
-
-
-
-.dog{
-  max-width: 20%;
-  display: block;
-  margin:0 auto;
-}
-
-h1{
-  text-align: center;
-}
-
-
 .common{
   color: white ;
-  font-size: 50px;
+  font-size: 100px;
   background: black;
   border: 5px dotted white;
   border-radius: 20px;
   padding:40px;
   margin:60px;
+  text-align:center;
 
 
   }

@@ -1,0 +1,31 @@
+
+img{
+  max-width:100%;
+}
+
+p{
+  font-size: 30px;
+  color: rgb(77, 62, 30);
+  font-weight:600;
+  text-decoration:line-through;
+  text-align: right;
+  font-family: 'Source Code Pro','menlo', monospace;
+  background:red;
+  border-radius: 50%;
+  text-shadow: 2px 2px 5px white;
+  box-shadow:5px 5px 5px black;
+  /*模糊filter:blur(3px);*/
+  /*旋转transform: rotate(20deg);*/
+
+}
+
+.rotate {
+  /*下移transform: translateY(10px);*/
+  /*加大transform:scale(2);*/
+  transform: rotate(10deg);
+
+  color: blue;
+  display: inline-block;
+
+
+}
