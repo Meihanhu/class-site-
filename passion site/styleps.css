@@ -1,0 +1,44 @@
+
+
+html {
+  background-image:url("../img/041-01.jpg");
+}
+
+
+
+
+div img{
+        display:inline;
+         max-width: 25%;
+         border-radius: 50%;
+         align: center;
+       }
+
+body{
+  text-align: center;
+}
+
+
+.common2{
+  color: white ;
+  font-size: 40px;
+  background: black;
+  border: 10px
+  padding:40px;
+  margin:60px;
+  text-align:center;
+  border-radius: 50%;
+  font-family:'Source Code Pro','menlo', monospace;
+  }
+
+  .common1{
+    color: white ;
+    font-size: 20px;
+    background: black;
+    border: 100px:
+    padding:50px;
+    margin:50px;
+    text-align:center;
+    border-radius: 60%;
+    font-family: 'Source Code Pro','menlo', monospace;
+    }
