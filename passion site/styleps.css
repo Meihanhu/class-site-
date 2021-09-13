@@ -7,12 +7,19 @@ html {
 
 
 
-div img{
+.dog{
         display:inline;
          max-width: 25%;
          border-radius: 50%;
          align: center;
        }
+
+       .flow{
+               display:flow-root;
+
+                align: center;
+              }
+
 
 
 
