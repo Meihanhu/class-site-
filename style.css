@@ -21,24 +21,24 @@ h1{
 
 .common{
   color: white ;
-  font-size: 40px;
+  font-size: 80px;
   background: black;
   border: 10px
   padding:40px;
   margin:60px;
   text-align:center;
   border-radius: 50%;
-  font-family:'Source Code Pro','menlo', monospace;
+  font-family:cursive;
   }
 
   .common1{
     color: white ;
-    font-size: 20px;
+    font-size: 30px;
     background: black;
     border: 100px:
     padding:50px;
     margin:50px;
     text-align:center;
     border-radius: 60%;
-    font-family: 'Source Code Pro','menlo', monospace;
+    font-family:cursive;
     }
