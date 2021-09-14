@@ -60,3 +60,17 @@ video{
     border-radius: 0%;
     font-family:cursive;
     }
+    .common{
+      color: white ;
+      font-size: 30px;
+      background: black;
+      border: 40px:
+      padding:50px;
+      margin:40px;
+      align:left;
+      border-radius: 60%;
+      display: inline-block;
+      font-family:cursive;
+
+
+      }

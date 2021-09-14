@@ -1,18 +1,13 @@
 html {
-  background-image:url("../img/018.jpeg");
+  background-image:url("../img/53-01.jpg");
 }
 
-img {opacity: 0.4;
-}
-img:hover{
-  opacity:1.0;
-}
+
 
 .dog{
-        display:inline;
-         max-width: 25%;
-         border-radius: 50%;
-         align: center;
+
+         max-width: 40%;
+        align: center;
        }
 
        .flow{
