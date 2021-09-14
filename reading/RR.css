@@ -2,8 +2,11 @@ html {
   background-image:url("../img/018.jpeg");
 }
 
-
-
+img {opacity: 0.4;
+}
+img:hover{
+  opacity:1.0;
+}
 
 .dog{
         display:inline;
