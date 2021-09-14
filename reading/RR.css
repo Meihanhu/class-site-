@@ -27,6 +27,9 @@ html {
                 border-radius: 50%;
                 font-family:cursive;
 
+
+
+
 #myvideo {position: fixed;
                 right: 0;
                 bottom: 0;
@@ -34,24 +37,15 @@ html {
                 min-height: 100%;
               }
 
+  .b{
+  color: white ;
+  font-size: 30px;
+  background: black;
+  border: 10px
+  padding:40px;
+  margin:60px;
+  text-align:center;
+  font-family:cursive;
 
 
-
-
-
-body{
-  text-align: center;
-}
-
-
-  .common1{
-    color: white ;
-    font-size: 20px;
-    background: black;
-    border: 100px:
-    padding:50px;
-    margin:50px;
-    text-align:center;
-    border-radius: 0%;
-    font-family: 'Source Code Pro','menlo', monospace;
-    }
+  }
