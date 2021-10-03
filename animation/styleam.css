@@ -1,0 +1,40 @@
+.box
+{
+  animation: rat-opaque 4s ease-in-out forwards;
+  margin-top:50%;
+}
+
+.rat {
+  width: 20%;
+  height: 20%;
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  z-index: 12;
+}
+
+.mouse {
+  animation: running-rat 10s cubic-bezier(.62,.64,.45,.97) forwards;
+  margin-top: 20px;
+}
+
+  .mouse div {
+    background-image: url("../img/66.png");
+    animation: little-jump 0.5s infinite;
+  }
+
+@keyframes running-rat {
+  100% {transform: translatex(100%);}
+}
+
+  @keyframes little-jump {
+    0% {transform: rotate(-10deg);}
+    50% {transform: rotate(10deg);}
+    100% {transform: rotate(-10deg);}
+  }
+
+
+  @keyframes rat-opaque {
+    0% {opacity:1;}
+    50% {opacity:0.9;}
+    100% {opacity:0;}
+  }
