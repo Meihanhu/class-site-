@@ -12,6 +12,18 @@ body{
   animation:sunset 3s infinite alternate linear;
 }
 
+.common2{
+  color: white ;
+  font-size: 40px;
+  background: black;
+  border: 10px
+  padding:40px;
+  margin:60px;
+  text-align:center;
+  border-radius: 50%;
+  font-family:cursive;
+              }
+
 
 img{
   width:200px;
