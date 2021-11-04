@@ -1,0 +1,68 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url("../img/85-01.jpg");
+  background-size:100%;
+}
+
+.common1{
+  color: white ;
+  font-size: 70px;
+
+  border: 100px:
+  padding:100px;
+  margin:40px;
+  text-align:center;
+  font-family:inherit;
+  }
+
+
+
+
+.secret-word{
+  color:red;
+  cursor:cell;
+}
+
+.secret-btn{
+  background:black ;
+  padding:30px;
+  font-size: 30px;
+  display: inline-block;
+
+
+}
+
+.secret-btn:hover{
+  background: red;
+
+}
+
+.secret2{
+  width:200px;
+  position:fixed;
+  bottom:20px;
+  left:20px;
+  opacity:0;
+
+}
+
+.secret{
+  width:200px;
+  position:fixed;
+  bottom:20px;
+  left:20px;
+  opacity:0;
+
+}
+
+.secret-word:hover .secret2{
+  opacity:1;
+
+}
+
+.secret-btn:hover + .secret{
+  opacity: 1;
+}

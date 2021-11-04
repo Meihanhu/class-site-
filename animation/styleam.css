@@ -1,8 +1,10 @@
 .box
 {
   animation: rat-opaque 4s ease-in-out forwards;
-  margin-top:50%;
+  margin-top:60%;
+
 }
+
 
 .rat {
   width: 40%;
